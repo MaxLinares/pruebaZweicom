@@ -28,7 +28,7 @@ public class MyResource {
     }
     
     /***
-     * 
+     * Metodo que retorna el valor de Fibonacci de N y N-1 que se ingresa por parametro.
      * @param in_value
      * @return
      */
@@ -47,7 +47,7 @@ public class MyResource {
 		}
     }
     /***
-     * 
+     * Metodo que calcula el valor de Fibonacci que se ingresa por parametro.
      * @param init
      * @return
      */
